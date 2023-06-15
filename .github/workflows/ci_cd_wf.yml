@@ -1,4 +1,5 @@
-name: test
+name: tests
+
 permissions: write-all
 
 on:
